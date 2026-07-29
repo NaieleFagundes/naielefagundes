@@ -18,7 +18,7 @@ Me chamo Naiele Fagundes, tenho 23 anos e sou natural do Rio Grande do Sul. Atua
 
 #
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=DE7F8B&repeat=false&width=450&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Ferramentas+que+estou+aprendendo%3A)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=DE7F8B&repeat=false&width=540&height=40&lines=%F0%9F%9B%A0%EF%B8%8F+Ferramentas+que+estou+aprendendo%3A)](https://git.io/typing-svg)
 
 - Linguagens: HTML, CSS, C e Java
 - Ferramentas: GitHub, VSCode e Intellij
