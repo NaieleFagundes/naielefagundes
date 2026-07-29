@@ -53,11 +53,11 @@ Me chamo Naiele Fagundes, tenho 23 anos e sou natural do Rio Grande do Sul. Atua
     <tr>
       <td align="center">
         <a href="https://github-stats-extended.vercel.app/api?username=NaieleFagundes&rank_icon=github&show_icons=true&include_all_commits=true&theme=calm_pink">
-          <img src="https://github-stats-extended.vercel.app/api?username=NaieleFagundes&rank_icon=github&show_icons=true&include_all_commits=true&theme=" alt="GitHub Stats" />
+          <img src="https://github-stats-extended.vercel.app/api?username=NaieleFagundes&rank_icon=github&show_icons=true&include_all_commits=true&theme=calm_pink" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=NaieleFagundes&langs_count=4&hide_values=true&theme=dracula" alt ="Stats GitHub">
+        <a href="https://github-stats-extended.vercel.app/api/top-langs?username=NaieleFagundes&langs_count=4&hide_values=true&theme=calm_pink" alt ="Stats GitHub">
           <img src="https://github-stats-extended.vercel.app/api/top-langs?username=NaieleFagundes&langs_count=4&hide_values=true&theme=calm_pink" alt="Top Langs" />
         </a>
       </td>
