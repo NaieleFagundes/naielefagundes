@@ -66,6 +66,12 @@ Me chamo Naiele Fagundes, tenho 23 anos e sou natural do Rio Grande do Sul. Atua
 </div>
 
 ##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaieleFagundes/NaieleFagundes/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaieleFagundes/NaieleFagundes/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/NaieleFagundes/NaieleFagundes/output/snake.svg">
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=DE7F8B&section=footer" width="100%"
+    </div>
