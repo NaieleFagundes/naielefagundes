@@ -67,11 +67,5 @@ Me chamo Naiele Fagundes, tenho 23 anos e sou natural do Rio Grande do Sul. Atua
 
 ##
 
-<div align="center"><br>
-  
-![github-user-contribution](https://github.com/user-attachments/assets/87079a72-7c8b-48fe-861a-314eb853f365)
-
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=DE7F8B&section=footer" width="100%"
