@@ -37,7 +37,7 @@ Me chamo Naiele Fagundes, tenho 23 anos e sou natural do Rio Grande do Sul. Atua
 <div align="center">
 
   <a href="https://www.linkedin.com/in/naiele-de-avila-fagundes-b10b08369">
-    <img src="https://img.shields.io/badge/-LinkedIn-C77E83?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A3B43&v=1" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-C77E83?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A3B43" alt="LinkedIn" />
   </a>
   <a href="mailto:naiele.afagundes@gmail.com">
     <img src="https://img.shields.io/badge/Email-C77E83?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8A3B43" alt="Email"/> 
@@ -65,12 +65,7 @@ Me chamo Naiele Fagundes, tenho 23 anos e sou natural do Rio Grande do Sul. Atua
   </table>
 </div>
 
-##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaieleFagundes/NaieleFagundes/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaieleFagundes/NaieleFagundes/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/NaieleFagundes/NaieleFagundes/output/snake.svg">
-</picture>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=DE7F8B&section=footer" width="100%"
