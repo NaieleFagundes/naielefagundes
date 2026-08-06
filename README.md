@@ -36,7 +36,7 @@ Me chamo Naiele Fagundes, tenho 23 anos e sou natural do Rio Grande do Sul. Atua
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/naiele-de-avila-fagundes-b10b08369">
+  <a href="https://www.linkedin.com/in/naiele-fagundes-2a43b9427">
     <img src="https://img.shields.io/badge/LinkedIn-C77E83?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8A3B43" alt="LinkedIn" />
   </a>
   <a href="mailto:naiele.afagundes@gmail.com">
